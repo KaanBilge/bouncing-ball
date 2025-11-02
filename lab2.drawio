@@ -79,8 +79,8 @@
         <mxCell id="FwO-ipQVJ-7wDZzCSAbA-37" value="C" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="FwO-ipQVJ-7wDZzCSAbA-34">
           <mxGeometry y="78" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FwO-ipQVJ-7wDZzCSAbA-39" value="$Y = AS0$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="FwO-ipQVJ-7wDZzCSAbA-39" value="$$Y = A\bar{S_0}&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\bar{S_1}&amp;nbsp;+ B\bar{S_0}S_1 + CS_0&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
